@@ -1,2 +1,2 @@
 # dog
-dependency repo
+dependency repo for puppy
